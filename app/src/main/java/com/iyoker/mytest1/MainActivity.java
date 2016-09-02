@@ -43,7 +43,7 @@ public class MainActivity extends Activity {
             i++;
         }
 
-
+    辅导费发送
     }
     private class MyListener implements View.OnClickListener{
 
