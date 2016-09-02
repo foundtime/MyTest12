@@ -42,9 +42,10 @@ public class MainActivity extends Activity {
             i=i=2;
             i++;
         }
-        //还是测试
-    //辅导费发送
-        //学习提交
+        //1还是测试
+    //2辅导费发送
+        //3学习提交
+        //4我还是在测试,结果未知
     }
     private class MyListener implements View.OnClickListener{
 
