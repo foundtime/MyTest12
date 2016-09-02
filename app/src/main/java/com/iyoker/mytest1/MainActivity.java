@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
         }
 
     //辅导费发送
+        //学习提交
     }
     private class MyListener implements View.OnClickListener{
 
