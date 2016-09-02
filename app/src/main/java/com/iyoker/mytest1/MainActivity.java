@@ -37,7 +37,11 @@ public class MainActivity extends Activity {
         Button btn_tv =(Button) findViewById(R.id.dial);
         mBtn = (Button) findViewById(R.id.dial);
         // TODO: 2016/9/2  
-        // FIXME: 2016/9/2 
+        // FIXME: 2016/9/2
+        for (int i = 0; i < 10; i++) {
+            i=i=2;
+            i++;
+        }
 
 
     }
