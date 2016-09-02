@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
     private Button mBtn1;
     private EditText editText;
     private Button dial;
+    private Button mBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,7 +35,9 @@ public class MainActivity extends Activity {
             }
         });
         Button btn_tv =(Button) findViewById(R.id.dial);
-
+        mBtn = (Button) findViewById(R.id.dial);
+        // TODO: 2016/9/2  
+        // FIXME: 2016/9/2 
 
 
     }
